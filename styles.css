@@ -167,4 +167,20 @@ main section:nth-child(3) {
         opacity: 1;
         transform: translateY(0)
     }
-}    
+}
+
+/* swiper */
+
+main {
+    max-width: 580px;
+}
+
+section {
+    overflow: hidden;
+}
+
+section ul {
+    flex-wrap: nowrap;
+    gap: 0;
+}
+
